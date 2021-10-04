@@ -3,7 +3,6 @@ tconsole
 *.swp
 node_modules
 tags
-build
 dist
 .DS_STORE
 tags.*
