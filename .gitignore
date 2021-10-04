@@ -1,6 +1,10 @@
-node_modules/
-client/src/contracts/Migrations.json
-client/src/contracts/
 rganache
 tconsole
-build/
+*.swp
+node_modules
+tags
+build
+dist
+.DS_STORE
+tags.*
+**/.env
